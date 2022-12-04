@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.7.0+commit.9e61f92b"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/ExampleExceptionAssert.sol": "ExceptionAssert"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/ExampleExceptionAssert.sol": {
+			"keccak256": "0x42b89265096cfeda1918140480178c1130493ba68ebc1d215c725aaeda21e2b8",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://beda1fc20ffff2fbce353be838d37b41d7b7589b401851651071d454705e878c",
+				"dweb:/ipfs/QmaRVr6C95iNzo9Py3Gg58QTJWYX4thuh1F2SM8264X8yS"
+			]
+		}
+	},
+	"version": 1
+}

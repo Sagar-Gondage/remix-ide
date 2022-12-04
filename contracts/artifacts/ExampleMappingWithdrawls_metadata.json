@@ -1,0 +1,53 @@
+{
+	"compiler": {
+		"version": "0.8.15+commit.e14f2714"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "payContract",
+				"outputs": [],
+				"stateMutability": "payable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/ExampleMapping.sol": "ExampleMappingWithdrawls"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/ExampleMapping.sol": {
+			"keccak256": "0xe53e12a388b31d7cbdf8a2fdb2025d705bb94fc1e82adc9e7cded8d8c91bf76e",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://0ea270fb1e486a38f9fade9a0ed647860d256cad66bcc431521ae3c9e3203bed",
+				"dweb:/ipfs/QmfWUFhHC5rz23fxr3KfJS1r8RrQVFMpmYkdcNXUSMhGgM"
+			]
+		}
+	},
+	"version": 1
+}

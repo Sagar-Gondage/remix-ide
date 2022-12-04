@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.14+commit.80d49f37"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/SampleContract.sol": "SendWi"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/SampleContract.sol": {
+			"keccak256": "0x6af2fbc423ec9fe1fb2f4dd34863f31ad99401c921b1f40b40b29981046f47eb",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://b2ad4a7e7b0d35bff99f3f92f168037b1ccd1161bde45e56cee6025565ad889c",
+				"dweb:/ipfs/QmdQrBqXr765c5Fw2VZ7TZWK77UAJfvyXZmW7Lum2hAPVe"
+			]
+		}
+	},
+	"version": 1
+}

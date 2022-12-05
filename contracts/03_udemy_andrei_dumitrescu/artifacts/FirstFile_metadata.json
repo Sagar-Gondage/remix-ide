@@ -45,7 +45,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/03_udemy_andrei_dumitrescu/01_first_file.sol": "firstFile"
+			"contracts/03_udemy_andrei_dumitrescu/01_first_file.sol": "FirstFile"
 		},
 		"evmVersion": "istanbul",
 		"libraries": {},
@@ -60,11 +60,11 @@
 	},
 	"sources": {
 		"contracts/03_udemy_andrei_dumitrescu/01_first_file.sol": {
-			"keccak256": "0x967c573e7c6a3b8a9b7c38280074b0b4c91fe4b722f78bc9847a85576c34e2b5",
+			"keccak256": "0x85b9f68eb191b160e31dc3d72965baae8ca5da3b22e81cf69d14d12d1f0ce108",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://04a43f513c922d57d2edf68e39719f8fc7a5290ac4aacab99bc34c7ece9b4f9b",
-				"dweb:/ipfs/QmTmvXmPy3gA9LDRzw1K28enk5fZ3Ka5saQZfqkhdd6q2A"
+				"bzz-raw://4a4aa95b0de39f687526ea0674e230676bac11712d1080d9e8f2b1e84692b204",
+				"dweb:/ipfs/QmSAEjeL1fQ3z74YHVbThHs1zEoVcaQeZAwXFLKt5xUE87"
 			]
 		}
 	},

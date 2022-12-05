@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.0+commit.c7dfd78e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/03_udemy_andrei_dumitrescu/02_overflow&underflow.sol": "OverFlowUnderFlow"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/03_udemy_andrei_dumitrescu/02_overflow&underflow.sol": {
+			"keccak256": "0xb946acae82c6b8a950eecd379c8baa75c27ba73c0773ac5868d956304cabfc11",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://fec4dae7c11b065050c4c1245e62f94d36a6ef569d39163f8d711e6b3fab9679",
+				"dweb:/ipfs/QmPRDAigmU2CsGfAkGuFF2yWz33oUFAEnikA62JfHJ7byQ"
+			]
+		}
+	},
+	"version": 1
+}

@@ -1,0 +1,69 @@
+{
+	"compiler": {
+		"version": "0.8.0+commit.c7dfd78e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "schoolInstructor",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "age",
+						"type": "uint256"
+					},
+					{
+						"internalType": "string",
+						"name": "name",
+						"type": "string"
+					},
+					{
+						"internalType": "address",
+						"name": "addr",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/03_udemy_andrei_dumitrescu/04_struct.sol": "School"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/03_udemy_andrei_dumitrescu/04_struct.sol": {
+			"keccak256": "0x497ae00d934c2fe875e3c451618e3d5daab17828de8a59eba6253019cab7afc4",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://f522d80782e9aa13df880ed9f7fa45d03b861e83cf6a5e047c5533c6ea423ecc",
+				"dweb:/ipfs/QmXJnBBKMoQLb41h7iUCRgKjHQomnmxppFBgruFZrJdHF2"
+			]
+		}
+	},
+	"version": 1
+}

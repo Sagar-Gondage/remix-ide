@@ -1,0 +1,85 @@
+{
+	"compiler": {
+		"version": "0.8.0+commit.c7dfd78e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "a",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "contract_a",
+				"outputs": [
+					{
+						"internalType": "contract A",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "outsideCaller",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/03_udemy_andrei_dumitrescu/09_visibility.sol": "outsideContract"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/03_udemy_andrei_dumitrescu/09_visibility.sol": {
+			"keccak256": "0x87a19b720468a74994fd4fcda1687d84247c75f7f65478d2fb95a38226dbccb0",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://b9cf9feedeb5f80a6fb4a62dfe41099c491a33d52db9c48c3b9b3b147580502e",
+				"dweb:/ipfs/QmeYv7mT9JqLmhUmeYw5U1x9UhViKDu2hMX8rL5gbJuuow"
+			]
+		}
+	},
+	"version": 1
+}

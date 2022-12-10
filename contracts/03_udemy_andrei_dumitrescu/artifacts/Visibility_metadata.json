@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.0+commit.c7dfd78e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/03_udemy_andrei_dumitrescu/09_visibility.sol": "Visibility"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/03_udemy_andrei_dumitrescu/09_visibility.sol": {
+			"keccak256": "0x890604f65e38cfc86a2432e2671bd8a8c7a2343c3317114dceb259efd87ea06b",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://0d2ad2df8741fda36f84fe0efdc3452eec5550a76acdd33d9fcee8b54cc5fd64",
+				"dweb:/ipfs/QmezPMYVKkbeRFaBmEYwjtZvRpbCpttjb4afXuJuggqbkP"
+			]
+		}
+	},
+	"version": 1
+}

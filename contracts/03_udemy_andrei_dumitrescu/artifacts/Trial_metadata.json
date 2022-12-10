@@ -6,8 +6,25 @@
 	"output": {
 		"abi": [
 			{
-				"inputs": [],
-				"name": "func1",
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_requiredAge",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "added_text",
+						"type": "string"
+					}
+				],
+				"name": "addLine",
 				"outputs": [
 					{
 						"internalType": "string",
@@ -15,7 +32,33 @@
 						"type": "string"
 					}
 				],
-				"stateMutability": "pure",
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_age",
+						"type": "uint256"
+					}
+				],
+				"name": "checkAge",
+				"outputs": [],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "text",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
 				"type": "function"
 			}
 		],
@@ -32,7 +75,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/03_udemy_andrei_dumitrescu/99_practice.sol": "A"
+			"contracts/03_udemy_andrei_dumitrescu/99_practice.sol": "Trial"
 		},
 		"evmVersion": "istanbul",
 		"libraries": {},
